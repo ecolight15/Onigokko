@@ -1,0 +1,8 @@
+
+Worlds:
+  - world
+  - world_nether
+  - world_the_end
+auto-run: true
+auto-defJoin: false
+gamemode: ADDATK

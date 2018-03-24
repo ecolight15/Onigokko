@@ -1,0 +1,21 @@
+name: Onigokko
+main: jp.minecraftuser.onigokko.Onigokko
+version: ${project.version}
+commands:
+  oni:
+    description: Onigokko command.
+    usage: /<command> [subcommand]
+  onic:
+    description: Onigokko user chat command.
+    usage: /<command> message
+  atc:
+    description: Atk chat command.
+    usage: /<command> message
+  dec:
+    description: Def chat command.
+    usage: /<command> message
+  mac:
+    description: Manager chat command.
+    usage: /<command> message
+
+
