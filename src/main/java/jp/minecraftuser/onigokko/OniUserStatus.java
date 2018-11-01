@@ -35,7 +35,7 @@ public class OniUserStatus {
     }
     public void setAtk(){ 
         player.getInventory().setHelmet(null);
-        player.getInventory().setHelmet(new ItemStack(Material.GOLD_HELMET));
+        player.getInventory().setHelmet(new ItemStack(Material.GOLDEN_HELMET));
         if ((type == OniUserType.USER_MANAGER) || (type == OniUserType.USER_MANDEF) || (type == OniUserType.USER_MANATK)) {        
             type = OniUserType.USER_MANATK;
         } else {
