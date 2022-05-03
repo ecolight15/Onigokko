@@ -1,6 +1,7 @@
 name: Onigokko
 main: jp.minecraftuser.onigokko.Onigokko
 version: ${project.version}
+api-version: 1.18
 commands:
   oni:
     description: Onigokko command.
